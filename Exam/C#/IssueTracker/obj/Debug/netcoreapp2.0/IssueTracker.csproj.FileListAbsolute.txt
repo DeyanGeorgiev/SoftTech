@@ -1,0 +1,11 @@
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\Diablo\Desktop\Exam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
